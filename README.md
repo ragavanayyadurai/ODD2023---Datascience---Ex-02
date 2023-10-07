@@ -32,9 +32,7 @@ Remove the outliers:
 Plot the datas using box plot.
 
 # PROGRAM:
-  Name: G.TEJASWINI
-  
-  Reg no: 212222230157
+
   ```python
 import pandas as pd
 import seaborn as sns
